@@ -1,2 +1,7 @@
 # datepicker-js
-datepicker with JS
+
+simple datepicker web application with JS
+
+## reference
+
+https://www.youtube.com/watch?v=wY2dao1hJms
